@@ -6,7 +6,7 @@ Python implementation of audio recorder and player with a simple gui.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required libraries.
 
 ```bash
-pip install Pyaudio tkinter wave soundfile
+pip install Pyaudio wave soundfile
 ```
 
 ## Usage
